@@ -1,6 +1,7 @@
 # RiverWalk-Strat - River Avulsion Simulation (Now with Stratigraphy!)
+
 RiverWalk-Strat v1.0.0 - River Avulsion Simulation (Now with Stratigraphy!)
-Caitlin Sifuentes, Harrison Martin, and Douglas Edmonds
+by: Caitlin Sifuentes, Harrison Martin, and Douglas Edmonds
 
 
 Caitlin Sifuentes
